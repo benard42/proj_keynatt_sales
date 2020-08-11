@@ -1,0 +1,24 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+.image {
+	float:left;
+  height:50px;
+  width:50px;
+  
+  
+}
+.image,img{
+	width:50x;
+	height:50px;
+}
+link {
+  color: orange;
+  text-align: center;
+}
